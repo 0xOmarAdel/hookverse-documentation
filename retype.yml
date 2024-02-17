@@ -1,0 +1,12 @@
+input: .
+output: .retype
+branding:
+  title: Hookverse
+  label: Docs
+links:
+  - text: Repo
+    link: https://github.com/0xOmarAdel/hookverse
+  - text: npm
+    link: https://www.npmjs.com/package/hookverse
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
