@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2024-02-17T12:21:40Z",
+  "created": "2024-02-24T03:55:15Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -25,6 +25,9 @@
     },
     {
       "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\prism.js"
     },
     {
       "path": "resources\\js\\retype.js"
@@ -54,7 +57,8 @@
       "path": "sitemap.xml.gz"
     },
     {
-      "path": "useaxios\\index.html"
+      "path": "useaxios\\index.html",
+      "old": true
     },
     {
       "path": "useclickoutside\\index.html"
@@ -64,6 +68,9 @@
     },
     {
       "path": "usefetch\\index.html"
+    },
+    {
+      "path": "usescrollblock\\index.html"
     }
   ]
 }
