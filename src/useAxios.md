@@ -138,7 +138,3 @@ export default FormSubmitExample;
 In the first example, the `useAxios` hook is utilized to perform an HTTP GET request for data fetching. The `runAxios` function is called to initiate the request, and loading and error states are managed accordingly. Additionally, a button is provided to manually trigger the request, with disabled state based on `loading`.
 
 In the second example, the `useAxios` hook is utilized to perform an HTTP POST request for form submission. The `runAxios` function is called to initiate the request when the form is submitted, and loading and error states are managed accordingly. The submit button is disabled based on `isExecuting` to prevent multiple submissions while the request is in progress. Additionally, any errors that occur during form submission are displayed to the user.
-
-```
-
-```
